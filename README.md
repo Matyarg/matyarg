@@ -58,7 +58,7 @@ I'm Matias Gimenez, a fullstack web developer that is looking for new challenges
 
 ## Languages and Tools  
 <table align="center">
-    <tr>
+<tr>
       <td align="center" width="100">
         <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
         <br>HTML5
@@ -79,35 +79,36 @@ I'm Matias Gimenez, a fullstack web developer that is looking for new challenges
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
         <br>PHP
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-          <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-          <br>PostgreSQL
-      </td>
-      
-            <td align="center" width="100"> 
-        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-        <br>Express.js
-      </td>
-<td align="center" width="100">
-    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-    <br>React
+</tr>
+<tr>
+        <td align="center" width="100">
+        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+        <br>PostgreSQL
+        </td>
+
+<td align="center" width="100"> 
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<br>Express.js
 </td>
- 
 
-      <td align="center" width="100">
-        <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-        <br>Node.js
-      </td>
-     <td align="center" width="100">
-        <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-        <br>Redux
-      </td>
-      </td>
-    </tr>
-    <tr>
+<td align="center" width="100">
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<br>React
+</td>
 
+
+<td align="center" width="100">
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<br>Node.js
+</td>
+
+<td align="center" width="100">
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<br>Redux
+</td>
+</tr>
+
+<tr>
 <td align="center" width="100">
         <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
         <br>Github
@@ -128,7 +129,7 @@ I'm Matias Gimenez, a fullstack web developer that is looking for new challenges
         <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
         <br>Linux
       </td>
-    </tr>
+</tr>
   </table>  
 <br/>   
 
