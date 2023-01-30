@@ -2,17 +2,12 @@
 <img src="https://res.cloudinary.com/dwvdhydtb/image/upload/v1675063983/Portfolio%20and%20Github/Portada_Perfil_de_Linkedin_Profesional_Moderno_Oscuro.png" align="center" height="" width="779" />
 </div>  
   
-
-  
-  
-
 # <div align="center">¡ welcome to my office ! 🖥️💼</div>  
   
-<br/> 
 
 ### Hi, im Matias Gimenez  
 I'm Matias Gimenez, a fullstack web developer that is looking for new challenges for my carreer, contact me if you have any. 😎  
-  
+  <br/> 
 
 <div align="center">
 <a href="https://github.com/matyarg" target="_blank">
