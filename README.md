@@ -135,11 +135,11 @@ I'm Matias Gimenez, a fullstack web developer that is looking for new challenges
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%"  height="90%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=matyarg&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" height="90%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matyarg&hide_border=true&layout=compact" align="center" style="width: 100%" />
 
