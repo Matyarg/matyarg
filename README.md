@@ -116,7 +116,7 @@ I'm Matias Gimenez, a fullstack web developer that is looking for new challenges
       </td>
       <td align="center" width="100">
         <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-        <br>Material UI
+        <br>MaterialUI
       </td>
       <td align="center"  width="100">
         <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
