@@ -104,7 +104,7 @@ I'm Matias Gimenez, a fullstack web developer that is looking for new challenges
         <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
         <br>Redux
       </td>
-
+      </td>
     </tr>
     <tr>
 
