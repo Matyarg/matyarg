@@ -8,6 +8,11 @@
 
 # <div align="center">¡ welcome to my office ! 🖥️💼</div>  
   
+<br/> 
+
+### Hi, im Matias Gimenez  
+I'm Matias Gimenez, a fullstack web developer that is looking for new challenges for my carreer, contact me if you have any. 😎  
+  
 
 <div align="center">
 <a href="https://github.com/matyarg" target="_blank">
@@ -22,11 +27,6 @@
 </div>  
   
 
-
-
-### Hi, im Matias Gimenez  
-I'm Matias Gimenez, a fullstack web developer that is looking for new challenges for my carreer, contact me if you have any. 😎  
-  
 
 <br/>  
 
