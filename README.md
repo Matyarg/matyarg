@@ -20,7 +20,7 @@ I'm Matias Gimenez, a fullstack web developer that is looking for new challenges
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a> 
 </div>  
-  
+   
 
 
 <br/>  
