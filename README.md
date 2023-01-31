@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://res.cloudinary.com/dwvdhydtb/image/upload/v1675063983/Portfolio%20and%20Github/Portada_Perfil_de_Linkedin_Profesional_Moderno_Oscuro.png" align="center" height="" width="779" />
+<img src="https://res.cloudinary.com/dwvdhydtb/image/upload/v1675063983/Portfolio%20and%20Github/Portada_Perfil_de_Linkedin_Profesional_Moderno_Oscuro.png" align="center" height="" width="779" alt="banner"/>
 </div>  
   
-# <div align="center">¡ welcome to my office ! 🖥️💼</div>  
+# <div  align="center">¡ welcome to my office ! 🖥️💼</div>  
   
 
 ### Hi, im Matias Gimenez  
