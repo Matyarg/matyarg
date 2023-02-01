@@ -74,7 +74,7 @@ Just a fullstack developer that is looking for new challenges for my carreer, co
         <br>TypeScript
       </td>
       <td align="center"  width="100">
-        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" alt="PHP" height="50" /></a>  
         <br>PHP
       </td>
 </tr>
