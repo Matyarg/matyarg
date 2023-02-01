@@ -6,7 +6,7 @@
   
 
 ### Hi, im Matias Gimenez  
-I'm Matias Gimenez, a fullstack web developer that is looking for new challenges for my carreer, contact me if you have any. 😎  
+Just a fullstack web developer that is looking for new challenges for my carreer, contact me if you have any. 😎  
   <br/> 
 
 <div align="center">
