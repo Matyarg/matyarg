@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://res.cloudinary.com/dwvdhydtb/image/upload/v1675237019/Portfolio%20and%20Github/Portada_Perfil_de_Linkedin_Profesional_Moderno_Oscuro_1.png" align="center" height="" width="779" alt="bannerr"/>
-</div>  
+</div>   
   
 # <div  align="center">¡ welcome to my office ! 🖥️💼</div>  
   
