@@ -100,10 +100,7 @@ Just a fullstack developer that is looking for new challenges for my carreer, co
 <br>Node.js
 </td>
 
-<td align="center" width="100">
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<br>Redux
-</td>
+
 </tr>
 
 <tr>
@@ -111,6 +108,10 @@ Just a fullstack developer that is looking for new challenges for my carreer, co
         <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
         <br>Github
       </td> -->
+      <td align="center" width="100">
+        <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+        <br>Redux
+      </td>
       <td align="center" width="100">
         <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
         <br>Bootstrap
