@@ -8,7 +8,7 @@
 ### Hi, im Matias Gimenez  
 Just a fullstack developer that is looking for new challenges for my carreer, contact me if you have any. 😎  
   <br/> 
-    
+      
 <div align="center">
 <a href="https://github.com/matyarg" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
